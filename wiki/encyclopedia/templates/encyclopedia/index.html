@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wiki</title>
+</head>
+<body>
+    <h1>Wiki</h1>
+<ul>
+    {% for entry in entries %}
+    <li>
+        <a href="{% url 'entry' entry %}">{{ entry }}</a>
+        <a href="{% url 'delete_entry' entry %}">Удалить запись</a> <!-- Убираем условие для простоты -->
+    </li>
+    {% endfor %}
+</ul>
+<a href="{% url 'create_entry' %}">Создать новую запись</a>
+</body>
+</html>
