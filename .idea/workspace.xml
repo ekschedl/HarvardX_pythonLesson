@@ -4,38 +4,99 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c16d0c3-0b0e-44b8-8065-79f6fa273ea4" name="Changes" comment="commit -m&quot;test&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3c16d0c3-0b0e-44b8-8065-79f6fa273ea4" name="Changes" comment="commit -m&quot;conditions done&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson01.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/flights/templates/flights/flight.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/templates/flights/flight.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/flights/templates/flights/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/templates/flights/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/flights/templates/flights/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/templates/flights/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/flights/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/flights/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/users/templates/users/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline/users/templates/users/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline/users/templates/users/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/users/templates/users/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline/users/templates/users/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/hello/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/sequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/square.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ekschedl"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ekschedl&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ekschedl/HarvardX_pythonLesson.git",
-    "accountId": "e56486b1-6393-4546-8a5b-d2ab7cc961ac"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ekschedl/HarvardX_pythonLesson.git&quot;,
+    &quot;accountId&quot;: &quot;f74b5ec0-1b62-4bdc-8f46-811b8f61d6f4&quot;
   }
-}]]></component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lesson01.executor": "Run",
-    "git-widget-placeholder": "master"
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nF6Mi9TjqfhXybszg7ojKzythx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sequences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.urls.executor&quot;: &quot;Run&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kat_kat/PycharmProjects/HarvardX_pythonLesson&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myproject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="commit -m&quot;test&quot;">
       <option name="closed" value="true" />
@@ -45,7 +106,38 @@
       <option name="project" value="LOCAL" />
       <updated>1728553820608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit -m&quot;lesson01 done&quot;">
+      <option name="closed" value="true" />
+      <created>1728554600338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728554600338</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit -m&quot;lesson01 done&quot;">
+      <option name="closed" value="true" />
+      <created>1728554753344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728554753344</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c16d0c3-0b0e-44b8-8065-79f6fa273ea4" name="Changes" comment="commit -m&quot;lesson01 done&quot;" />
+      <created>1728556431281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728556431281</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit -m&quot;conditions done&quot;">
+      <option name="closed" value="true" />
+      <created>1728557510560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728557510560</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,6 +154,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
     <MESSAGE value="commit -m&quot;test&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit -m&quot;test&quot;" />
+    <MESSAGE value="commit -m&quot;lesson01 done&quot;" />
+    <MESSAGE value="commit -m&quot;conditions done&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit -m&quot;conditions done&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/conditions.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
